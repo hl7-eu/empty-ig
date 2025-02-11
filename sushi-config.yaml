@@ -1,8 +1,8 @@
-id: smart.who.int.ig-empty
-canonical: http://smart.who.int/ig-empty
+id: hl7.fhir.eu.ig-empty
+canonical: https://hl7.eu/fhir/ig-empty
 name: IGEmpty
 title: Empty IG
-description: An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides
+description: An empty Implementation Guide to be used as a starting point for building HL7 EU Implementation Guides
 status: draft # draft | active | retired | unknown
 experimental: false
 version: 0.1.0
@@ -13,8 +13,8 @@ releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | re
 license: CC-BY-SA-3.0-IGO # https://www.hl7.org/fhir/valueset-spdx-license.html
 jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001 "World" # https://www.hl7.org/fhir/valueset-jurisdiction.html
 publisher:
-  name: WHO
-  url: http://who.int
+  name: HL7 EU
+  url: http://hl7.eu
   # email: test@example.org
 
 dependencies:
